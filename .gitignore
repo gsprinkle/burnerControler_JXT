@@ -1,15 +1,17 @@
 # 忽略某个文件夹（末尾加 / 表示文件夹）如：node_modules/	dist/	build/
-中诚燃烧机画面260316-temp_img/
-
-
-
 # 忽略某个具体的文件	 	.env	config.local.json
-
-
-
 # 忽略所有 .log 后缀的文件	*.log
-*.ldf
-
-
-
 # 忽略所有目录下的 temp 文件夹 **/temp/
+
+中诚燃烧机画面260316-temp_img/
+*.ldf
+*.data
+*.ldfsmart
+*.devices
+*.chk
+*.cnk
+*.modified
+*.pwx
+*.rdf
+*.srt
+*.us
