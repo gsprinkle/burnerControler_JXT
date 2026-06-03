@@ -1,32 +1,47 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
   <diagram name="第 1 页" id="ibiTkNbQS1VMkfuIGDfR">
-    <mxGraphModel dx="1376" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q47nCryLiK7OwEIdslLc-1" value="初始页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry y="350" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-1" value="初始页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-2" value="主画面" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-2" value="主画面" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="134" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-4" value="空燃比" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-4" value="空燃比" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="269" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-6" value="PID温控" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-6" value="温控设定" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="403" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-7" value="IO状态" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-7" value="IO状态" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="940" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-8" value="报警信息" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-8" value="报警信息" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="537" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-9" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="354" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-9" value="用户管理" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="671" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q47nCryLiK7OwEIdslLc-10" value="升温曲线" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="q47nCryLiK7OwEIdslLc-10" value="升温曲线" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="806" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwnEwRC9KYirI5YMXBmp-1" value="点火设定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="319" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwnEwRC9KYirI5YMXBmp-2" value="吹扫设定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="185" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwnEwRC9KYirI5YMXBmp-3" value="系统设定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwnEwRC9KYirI5YMXBmp-4" value="参数设定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QwnEwRC9KYirI5YMXBmp-5" value="设备调试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
