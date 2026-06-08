@@ -6,6 +6,8 @@
 **/中诚燃烧机画面260316-temp_img/
 **/qmls
 **/SimWork
+
+
 *.ldf
 *.data
 *.ldfsmart
@@ -17,3 +19,5 @@
 *.rdf
 *.srt
 *.us
+*.transfer
+
